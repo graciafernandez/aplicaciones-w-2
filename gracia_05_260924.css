@@ -1,0 +1,30 @@
+/*
+Gracia
+september 2024
+*/
+body{
+    color: blanchedalmond;
+}
+h1{
+color: black;
+text-align: center;
+}
+div{
+    width: 200px;
+    height: 100px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 40px;
+}
+#CajaAzul{ background-color: rgb(69, 196, 255);
+/*float: left;*/
+clear: both;
+width: 100%;}
+#CajaRoja{ background-color: rgb(255, 43, 43);
+float: right;}
+#CajaRosa{ background-color: rgb(255, 95, 180);
+float: left;}
+#CajaNegra{ background-color: rgb(0, 0, 0);
+/*float: right;*/ 
+clear:both ;
+width: 100%;}

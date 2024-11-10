@@ -1,0 +1,36 @@
+/*
+    Hoja de Estilo
+*/
+
+*{
+    box-sizing: border-box;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+
+header,footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+article{
+    background-color: rgb(233, 162, 221);
+    padding: 20px;
+    overflow: auto;
+}
+section{
+    background-color: rgb(252, 115, 167);
+    padding: 20px;
+    float: left;
+    width: 50%;
+    border-style: double;
+    height: 300px;
+    overflow: auto;
+}
+
+footer{
+    clear: both;
+}

@@ -1,0 +1,19 @@
+/*
+Fuentes de texto css
+*/
+
+.anton-sc-regular {
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+}
+.s1{
+    font-family: fantasy;
+}
+.s2{
+    font-family: "Anton SC", sans-serif;
+}

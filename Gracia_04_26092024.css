@@ -1,0 +1,29 @@
+/*
+Gracia Fernández 
+Septiembre 2024
+*/
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+div > a{
+    padding: 25px;
+    margin: 10px;
+    display: block;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    background-color: aqua;
+    width: 150px;
+    border-radius: 25px;
+    border: 5px;
+    border-style: ridge;
+    color: beige 
+}
+
+.cajaRoja{background-color: brown;}
+.cajaAzul{background-color: blue;}
+.cajaNegra{background-color: black;}
+.cajaVerde{background-color: rgb(62, 197, 152);}

@@ -1,0 +1,27 @@
+/* 
+Hoja de estilo
+*/
+
+.grid{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+*{
+    box-sizing: border-box;
+}
+
+header, footer{
+    background-color: white;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+
+}
+body{
+    background-image: url(./fotiños/teddy.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: gray;
+}

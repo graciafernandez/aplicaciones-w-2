@@ -1,0 +1,27 @@
+/*practica trabajo diario*/
+.Grid{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns:auto auto;
+    grid-gap: 5px ;
+
+}
+.Grid img{
+    width: 70%;
+    border: 3px solid  green;
+    margin:20px auto 20px auto;
+    transition: all ease 2s;
+} 
+header{
+    background-color: aqua;
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+.Grid :hover{
+    border: 5px solid green;
+    opacity: 0.7;
+    transform:scale(1.1) rotate(4deg) translate(5px 5px);
+
+
+}
